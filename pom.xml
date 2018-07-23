@@ -56,7 +56,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <maven.plugin-api.version>3.0.4</maven.plugin-api.version>
+        <maven.plugin-api.version>3.5.0</maven.plugin-api.version>
         <maven.project.version>3.0-alpha-2</maven.project.version>
         <additionalparam>-Xdoclint:none</additionalparam>
     </properties>
